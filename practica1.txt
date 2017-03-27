@@ -1,0 +1,11 @@
+practica1
+crea un sitio de 6 paginas con el siguiente contenido:
+  1. Inicio (portada de trabajo)
+  2. Descripción del integrantes 1 (nombre, localidad, red social)
+  3. Descripción del integrantes 2 (nombre, localidad, red social)
+  4. Descripción del integrantes 3 (nombre, localidad, red social)
+  5. Promoción a la pelicula que sea de su agrado (imagen, descripción, video)
+  6. Promoción a la audio que sea de su agrado (imagen, letra, audio)
+
+  El sitio debe contener links de navegacion
+  Da presentación de acuerdo a gustos del integrante y tema de pelicula y canción
